@@ -6,15 +6,21 @@
 
 [1.1 Введение в программирование на Java](introduction) 
   
-#### Моё решение: https://replit.com/@Sunches/HW111, https://replit.com/@Sunches/HW112
+#### Моё решение
++ https://replit.com/@Sunches/HW111
++ https://replit.com/@Sunches/HW112
 
 [1.2	Структура программы](program-structure)
   
-#### Моё решение: https://replit.com/@Sunches/HW121, https://replit.com/@Sunches/HW122
+#### Моё решение
++ https://replit.com/@Sunches/HW121
++ https://replit.com/@Sunches/HW122
 
 [1.3.   Условные операторы и циклы](conditional-statements-cycles)
 
-#### Моё решение: https://replit.com/@Sunches/HW131, https://replit.com/@Sunches/HW132
+#### Моё решение
++ https://replit.com/@Sunches/HW131
++ https://replit.com/@Sunches/HW132
 
 [1.4	Типы данных в Java: примитивы](primitive-types)
 
