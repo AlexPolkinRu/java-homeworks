@@ -24,6 +24,10 @@
 
 [1.4	Типы данных в Java: примитивы](primitive-types)
 
+#### Моё решение
++ https://replit.com/@Sunches/HW141
++ https://replit.com/@Sunches/HW142
+
 1.5	Типы данных в Java: объекты (квиз)
 
 [1.6	Структура класса](class-structure)
