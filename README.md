@@ -32,10 +32,16 @@
 
 [1.6	Структура класса](class-structure)
 
+#### Моё решение
++ https://replit.com/@Sunches/HW16
+
 
 ### Блок 2. InMemory хранение данных — массивы
 
 [2.1	Массивы одномерные](one-dimensional-array)
+
+#### Моё решение
++ https://replit.com/@Sunches/HW17
 
 [2.2	Массивы многомерные](multidimensional-array)
 
