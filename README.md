@@ -5,10 +5,10 @@
 ### Блок 1. Основы Java
 
 [1.1 Введение в программирование на Java](introduction) 
-  
-#### Моё решение
-+ https://replit.com/@Sunches/HW111
-+ https://replit.com/@Sunches/HW112
+
+https://github.com/AlexPolkinRu/java-homeworks/blob/master/introduction/1.1.1 // https://replit.com/@Sunches/HW111
+
+https://github.com/AlexPolkinRu/java-homeworks/blob/master/introduction/1.1.2 // https://replit.com/@Sunches/HW112
 
 [1.2	Структура программы](program-structure)
   
