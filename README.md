@@ -24,6 +24,8 @@
 
 1.5	Типы данных в Java: объекты (квиз)
 
++ Домашнее задание кода программы не требует
+
 [1.6	Структура класса](class-structure)
 
 + [Онлайн-читалка](https://github.com/AlexPolkinRu/java-homeworks/tree/master/class-structure) => [Решение](https://replit.com/@Sunches/HW16)
