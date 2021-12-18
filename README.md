@@ -6,6 +6,8 @@
 
 [1.1 Введение в программирование на Java](introduction) 
 
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
+
 [Автор программы] (https://github.com/AlexPolkinRu/java-homeworks/blob/master/introduction/1.1.1) // Решение https://replit.com/@Sunches/HW111
 
 [Вычисление разности переменных] (https://github.com/AlexPolkinRu/java-homeworks/blob/master/introduction/1.1.2) // Решение https://replit.com/@Sunches/HW112
