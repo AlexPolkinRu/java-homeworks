@@ -16,30 +16,30 @@
 
 [1.3.   Условные операторы и циклы](conditional-statements-cycles)
 
-+ [Сумматор]() // [Решение](https://replit.com/@Sunches/HW131)
-+ [Сумматор]() // [Решение](https://replit.com/@Sunches/HW132)
++ [Високосный год](https://github.com/AlexPolkinRu/java-homeworks/blob/master/conditional-statements-cycles/1.3.1) // [Решение](https://replit.com/@Sunches/HW131)
++ [Угадываем високосность](https://github.com/AlexPolkinRu/java-homeworks/blob/master/conditional-statements-cycles/1.3.2) // [Решение](https://replit.com/@Sunches/HW132)
 
 [1.4	Типы данных в Java: примитивы](primitive-types)
 
-+ [Сумматор]() // [Решение](https://replit.com/@Sunches/HW141)
-+ [Сумматор]() // [Решение](https://replit.com/@Sunches/HW142)
++ [ИПшник](https://github.com/AlexPolkinRu/java-homeworks/blob/master/primitive-types/1.4.2) // [Решение](https://replit.com/@Sunches/HW141)
++ [Сравнение double](https://github.com/AlexPolkinRu/java-homeworks/blob/master/primitive-types/1.4.1) // [Решение](https://replit.com/@Sunches/HW142)
 
 1.5	Типы данных в Java: объекты (квиз)
 
 [1.6	Структура класса](class-structure)
 
-+ [Сумматор]() // [Решение](https://replit.com/@Sunches/HW16)
++ [Онлайн-читалка](https://github.com/AlexPolkinRu/java-homeworks/tree/master/class-structure) // [Решение](https://replit.com/@Sunches/HW16)
 
 ### Блок 2. InMemory хранение данных — массивы
 
 [2.1	Массивы одномерные](one-dimensional-array)
 
-+ [Сумматор]() // [Решение](https://replit.com/@Sunches/HW21)
++ [Покупка товаров](https://github.com/AlexPolkinRu/java-homeworks/blob/master/one-dimensional-array/2.1.1) // [Решение](https://replit.com/@Sunches/HW21)
 
 [2.2	Массивы многомерные](multidimensional-array)
 
-+ [Сумматор]() // [Решение](https://replit.com/@Sunches/HW221)
-+ [Сумматор]() // [Решение](https://replit.com/@Sunches/HW222)
++ [Поворот матрицы на 90 градусов по часовой стрелке](https://github.com/AlexPolkinRu/java-homeworks/blob/master/multidimensional-array/2.2.1) // [Решение](https://replit.com/@Sunches/HW221)
++ [Дописываем крестики-нолики](https://github.com/AlexPolkinRu/java-homeworks/blob/master/multidimensional-array/2.2.2) // [Решение](https://replit.com/@Sunches/HW222)
 
 ### Блок 3. Основы ООП
 
