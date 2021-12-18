@@ -1,4 +1,4 @@
-# Мои решения домашних заданий по курсу «Основы Java» ([Образовательной платформы Netology.ru](https://netology.ru/profile/program/java-29/))
+# Мои решения домашних заданий по курсу «Основы Java» ([Образовательной платформы Netology.ru](https://netology.ru/programs/java-developer/))
 
 ### [Словарь терминов Java](./java_glossary.md/)
 
