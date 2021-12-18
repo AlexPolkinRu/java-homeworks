@@ -6,44 +6,40 @@
 
 [1.1 Введение в программирование на Java](introduction) 
 
-+ [Автор программы](https://github.com/AlexPolkinRu/java-homeworks/blob/master/introduction/1.1.1) // Решение https://replit.com/@Sunches/HW111
-+ [Вычисление разности переменных](https://github.com/AlexPolkinRu/java-homeworks/blob/master/introduction/1.1.2) // Решение https://replit.com/@Sunches/HW112
++ [Автор программы](https://github.com/AlexPolkinRu/java-homeworks/blob/master/introduction/1.1.1) // [Решение](https://replit.com/@Sunches/HW111)
++ [Вычисление разности переменных](https://github.com/AlexPolkinRu/java-homeworks/blob/master/introduction/1.1.2) // [Решение](https://replit.com/@Sunches/HW112)
 
 [1.2	Структура программы](program-structure)
   
-#### Моё решение
-+ https://replit.com/@Sunches/HW121
-+ https://replit.com/@Sunches/HW122
++ [Сумматор](https://github.com/AlexPolkinRu/java-homeworks/blob/master/program-structure/1.2.1) // [Решение](https://replit.com/@Sunches/HW121)
++ [Расчет площади круга и длины его окружности](https://github.com/AlexPolkinRu/java-homeworks/blob/master/program-structure/1.2.2) // [Решение](https://replit.com/@Sunches/HW122)
 
 [1.3.   Условные операторы и циклы](conditional-statements-cycles)
 
-#### Моё решение
-+ https://replit.com/@Sunches/HW131
-+ https://replit.com/@Sunches/HW132
++ [Сумматор]() // [Решение](https://replit.com/@Sunches/HW131)
++ [Сумматор]() // [Решение](https://replit.com/@Sunches/HW132)
 
 [1.4	Типы данных в Java: примитивы](primitive-types)
 
-#### Моё решение
-+ https://replit.com/@Sunches/HW141
-+ https://replit.com/@Sunches/HW142
++ [Сумматор]() // [Решение](https://replit.com/@Sunches/HW141)
++ [Сумматор]() // [Решение](https://replit.com/@Sunches/HW142)
 
 1.5	Типы данных в Java: объекты (квиз)
 
 [1.6	Структура класса](class-structure)
 
-#### Моё решение
-+ https://replit.com/@Sunches/HW16
-
++ [Сумматор]() // [Решение](https://replit.com/@Sunches/HW16)
 
 ### Блок 2. InMemory хранение данных — массивы
 
 [2.1	Массивы одномерные](one-dimensional-array)
 
-#### Моё решение
-+ https://replit.com/@Sunches/HW17
++ [Сумматор]() // [Решение](https://replit.com/@Sunches/HW21)
 
 [2.2	Массивы многомерные](multidimensional-array)
 
++ [Сумматор]() // [Решение](https://replit.com/@Sunches/HW221)
++ [Сумматор]() // [Решение](https://replit.com/@Sunches/HW222)
 
 ### Блок 3. Основы ООП
 
