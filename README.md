@@ -1,7 +1,5 @@
 # Мои решения домашних заданий по курсу «Основы Java» ([Образовательной платформы Netology.ru](https://netology.ru/programs/java-developer/))
 
-### [Словарь терминов Java](./java_glossary.md/)
-
 ### Блок 1. Основы Java
 
 [1.1 Введение в программирование на Java](introduction) 
