@@ -47,10 +47,18 @@
 
 [3.2	Полиморфизм](polymorphism)
 
++ [Игра-шутер](https://github.com/AlexPolkinRu/java-homeworks/blob/master/polymorphism/3.2.1) => [Решение](https://replit.com/@Sunches/HW321)
++ [Задача от бухгалтеров](https://github.com/AlexPolkinRu/java-homeworks/blob/master/polymorphism/3.2.2) => [Решение](https://replit.com/@Sunches/HW322)
+
 [3.3	Абстракции и интерфейсы](abstractions-interfaces)
+
++ [Библиотека](https://github.com/AlexPolkinRu/java-homeworks/blob/master/abstractions-interfaces/3.3.1) => [Решение](https://replit.com/@Sunches/HW331)
++ [Банковские счета](https://github.com/AlexPolkinRu/java-homeworks/blob/master/abstractions-interfaces/3.3.2) => [Решение](https://replit.com/@Sunches/HW332)
 
 [3.4  Исключения, Stacktrace](exceptions)
 
++ [Проверка доступа к ресурсу](https://github.com/AlexPolkinRu/java-homeworks/blob/master/exceptions/3.4.1) => [Решение](https://replit.com/@Sunches/HW341)
++ [Валидация прочитанных событий](https://github.com/AlexPolkinRu/java-homeworks/blob/master/exceptions/3.4.2) => [Решение](https://replit.com/@Sunches/HW342)
 
 ### Блок 4. InMemory хранение данных — коллекции
 
@@ -58,7 +66,13 @@
 
 [4.2	Коллекции List](list)
 
++ [Записная книга](https://github.com/AlexPolkinRu/java-homeworks/blob/master/list/4.1.1) => [Решение](https://replit.com/@Sunches/HW411)
++ [Список сотрудников](https://github.com/AlexPolkinRu/java-homeworks/blob/master/list/4.1.2) => [Решение](https://replit.com/@Sunches/HW412)
+
 [4.3	Коллекции Queue](queue)
+
++ [Лифт](https://github.com/AlexPolkinRu/java-homeworks/blob/master/queue/4.2.1) => [Решение](https://replit.com/@Sunches/HW421)
++ [Польская запись](https://github.com/AlexPolkinRu/java-homeworks/blob/master/queue/4.2.2) => [Решение](https://replit.com/@Sunches/HW422)
 
 [4.4	Коллекция HashMap и HashSet](hash-collections)
 
