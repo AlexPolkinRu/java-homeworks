@@ -81,4 +81,4 @@
 + [Система подбора кандидатов](/tree-collections/4.5.2) => [Решение](https://replit.com/@Sunches/HW452)
 
 ### Дипломная работа
-[Конвертер в текстовую графику](diploma/diploma.md)
+[Конвертер в текстовую графику](diploma/diploma.md) => [Решение](/TextGraphicsConverter)
