@@ -67,7 +67,6 @@
 [4.2	Коллекции List](list)
 
 + [Записная книга](https://github.com/AlexPolkinRu/java-homeworks/blob/master/list/4.1.1) => [Решение](https://replit.com/@Sunches/HW411)
-+ [Список сотрудников](https://github.com/AlexPolkinRu/java-homeworks/blob/master/list/4.1.2) => [Решение](https://replit.com/@Sunches/HW412)
 
 [4.3	Коллекции Queue](queue)
 
@@ -77,6 +76,9 @@
 [4.4	Коллекция HashMap и HashSet](hash-collections)
 
 [4.5	Коллекции Treemap и TreeSet](tree-collections)
+
++ [Пропущенные вызовы](https://github.com/AlexPolkinRu/java-homeworks/blob/master/tree-collections/4.5.1) => [Решение](https://replit.com/@Sunches/HW451)
++ [Система подбора кандидатов](https://github.com/AlexPolkinRu/java-homeworks/blob/master/tree-collections/4.5.2) => [Решение](https://replit.com/@Sunches/HW452)
 
 ### Дипломная работа
 [Конвертер в текстовую графику](diploma/diploma.md)
